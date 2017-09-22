@@ -1,0 +1,14 @@
+PHP变量
+
+驼峰表示
+大小写敏感
+
+$age = 16;
+
+error_reporting = E_ALL&'E_NOTICE
+
+$a = $b = $c =1;
+echo $a;
+echo $b;
+echo $c;
+echo $a,$b,$c;
